@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mobile I
 
 ## Topics
