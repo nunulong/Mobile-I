@@ -20,15 +20,13 @@ const ButtonsWrapper = () => {
 const styles = StyleSheet.create({
   buttonsContainer: {
     flexDirection: 'row',
-    justifyContent: 'space-around',
-    borderColor: 'red',
-    borderWidth: 1,
+    justifyContent: 'center',
     height: 40,
     alignItems: 'center'
   },
   button: {
-    height: 30,
-    width: 90,
+    height: 25,
+    width: 85,
     borderWidth: 1,
     borderColor: 'blue',
     justifyContent: 'center'

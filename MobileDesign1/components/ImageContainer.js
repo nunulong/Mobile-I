@@ -6,7 +6,7 @@ const ImageContainer = () => {
     <View style={imageWrapper}>
       <Image
         style={imageProper}
-        source={{ uri: 'https://i.ytimg.com/vi/kWq4XclcYko/hqdefault.jpg' }}
+        source={require('../assets/header.jpg')}
       />
     </View>
   );
